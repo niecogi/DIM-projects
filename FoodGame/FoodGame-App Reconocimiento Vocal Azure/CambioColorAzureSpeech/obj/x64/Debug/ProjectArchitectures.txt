@@ -1,0 +1,1 @@
+C:\Users\Javier\Documents\Docencia\Master\DIMA\1-Interaccion Vocal\Azure\CambioColorAzureSpeech\CambioColorAzureSpeech\CambioColorAzureSpeech.csproj;x64

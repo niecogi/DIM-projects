@@ -1,0 +1,9 @@
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\bin\Release\REcoSample.exe.config
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\bin\Release\REcoSample.exe
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\bin\Release\REcoSample.pdb
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\obj\Release\REcoSample.Form1.resources
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\obj\Release\REcoSample.Properties.Resources.resources
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\obj\Release\REcoSample.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\obj\Release\REcoSample.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\obj\Release\REcoSample.exe
+D:\UNIVERSIDAD\MASTER\A.2\DIM\REcoSample\obj\Release\REcoSample.pdb
